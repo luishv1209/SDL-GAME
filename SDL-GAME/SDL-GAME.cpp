@@ -21,7 +21,7 @@ int main(int argc, char* argv[])
     //usertemp.score_mg3 = 320;
     //usertemp.score_mg4 = 200;
 
-|
+
     //std::ofstream ofst;
     //ofst.open("./registro.dat", std::ios::out | std::ios::binary | std::ios::trunc);
     //ofst.write((char*)&usertemp, sizeof(usertemp));
